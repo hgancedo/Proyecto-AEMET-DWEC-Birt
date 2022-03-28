@@ -1,0 +1,52 @@
+body {
+    background: linear-gradient(to bottom, #66D8F9, white);
+}
+
+#grafico {
+    max-height: 27vh;
+    max-width: 45vw;
+    margin-bottom: 4vh;
+}
+
+#title {
+    text-align: center;
+}
+
+#contPrevision {
+    width: 50vw;
+    height: 16vh;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#title2 {
+    text-align: center;
+}
+
+#conte2 {
+    width: 100vw;
+}
+
+#tabla {
+    border: solid;
+    table-layout: fixed;
+    width: 95vw;
+    height:15vh;
+    text-align: center;
+    margin: 0 auto;
+}
+
+#tabla td {
+    border: solid;
+}
+
+
+#grafico {
+    border: solid;
+    margin: 0 auto;
+}
+
+#title3 {
+    text-align: center;
+}
+
